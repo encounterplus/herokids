@@ -1,0 +1,129 @@
+{
+  "debug": false,
+  "spacing": 8,
+  "padding": [20, 20, 60, 20],
+  "views": [
+    {
+      "type": "image",
+      "value": "/images/logo.png",
+    },
+    {
+      "value": "{% if data.class %}{{data.class}}: {% endif %}{{name}}",
+      "style": "title",
+    },
+    {
+      "type": "zStack",
+      "alignment": "trailing",
+      "width": 0,
+      "views": [
+        {
+          "type": "image",
+          "value": "{{imagePath}}",
+          "link": "{{imagePath}}",
+          "width": 0.6,
+          "height": 300,
+        },
+        {
+          "type": "zStack",
+          "alignment": "leading",
+          "width": 0,
+          "views": [
+            {
+              "type": "vStack",
+              "views": [
+                {
+                  "type": "text",
+                  "width": -1,
+                  "value": "![Melee Attack](/icons/melee.png#size=50x50) {% if data.str %}{% for i in 1...data.str %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
+                },
+                {
+                  "type": "text",
+                  "width": -1,
+                  "value": "![Ranged Attack](/icons/ranged.png#size=50x50) {% if data.dex %}{% for i in 1...data.dex %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
+                },
+                {
+                  "type": "text",
+                  "width": -1,
+                  "value": "![Magic Attack](/icons/magic.png#size=50x50) {% if data.int %}{% for i in 1...data.int %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
+                },
+                {
+                  "type": "text",
+                  "width": -1,
+                  "value": "![Armor](/icons/armor.png#size=50x50) {% if data.ac %}{% for i in 1...data.ac %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
+                },
+                {
+                  "type": "text",
+                  "width": -1,
+                  "value": "![Health](/icons/health.png#size=50x50) {% if data.hp %}![Health](/icons//hb{{data.hp}}.png#height=50){% else %}![Die](/icons/none.png#height=50){% endif %}"
+                },
+              ],
+            },
+          ]
+        }
+      ],
+    },
+    {
+      "type": "spacer",
+      "height": 4
+    },
+    {
+      "type": "list",
+      "attribute": "data.actions",
+      "views": [
+        {
+          "type": "text",
+          "value": "{% if type %}**{{type|map: 'Action'}}: {% endif %}{{name}}**\n{{text}}",
+          "style": "body2"
+        },
+      ]
+    },
+    {
+      "value": "Inventory and Skills",
+      "style": "title3",
+      "padding": [4, 0, 6, 0]
+    },
+    {
+      "type": "text",
+      "value": "{% for item in data.inventory %}{% for i in 1...item.count %}![{{item.type}}](/icons/{{item.type}}.png#height=50) {% endfor %}{% endfor %}  {% for skill in data.skills %}![{{skill}}](/icons/{{skill}}.png#height=50) {% endfor %}  {% for ability in data.uniqueAbilities %}![{{ability}}](/icons/{{ability}}.png#height=50){% endfor %}",
+      "style": "icons"
+    },
+    {
+      "type": "text",
+      "value": "{{content}}",
+    }
+  ],
+  "background": {
+    "type": "zStack",
+    "views": [
+      {
+        "type": "image",
+        "value": "/images/scroll-texture.jpg",
+        "imageResizeMode": "tile",
+        "borderWidth": 3,
+        "borderColor": "#000000",
+        "padding": [0, 8, 0, 8]
+      },
+      {
+        "type": "vStack",
+        "views": [
+          {
+            "type": "image",
+            "value": "/images/scroll-top.png",
+            "imageResizeMode": "stretch",
+            "padding": [0, 8, 0, 8],
+            "height": 20,
+          },
+          {
+            "type": "spacer",
+          },
+          {
+            "type": "image",
+            "value": "/images/scroll-bottom.png",
+            "imageResizeMode": "stretch",
+            "height": 40,
+          }
+        ]
+      }
+    ]
+  },
+}

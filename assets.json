@@ -1,0 +1,1625 @@
+[
+  {
+    "components" : [
+
+    ],
+    "id" : "075D7770-23FD-4BC2-84E8-DC1DCDF60E25",
+    "name" : "Light 1",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "2C99B9BE-115C-4165-AB27-194191341E21",
+    "name" : "Light 2",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "51DFCD68-8F6E-4134-9ECD-AFBB81D9178A",
+    "name" : "Light 3",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "A0B47C46-66E9-4661-BB1C-F162D193D7EE",
+    "name" : "Light 4",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "01A8942E-C916-4C7B-A01A-77E6DBD38743",
+    "name" : "pin-cropped",
+    "offsetY" : 40,
+    "rank" : 0,
+    "resource" : "\/campaigns\/2919CFB5-6CBE-488B-8F19-D32AEB25B05D\/pin-cropped.png",
+    "scale" : 1,
+    "type" : "image"
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "D55133A9-CF0C-451E-A6C2-6449B10AE042",
+    "name" : "Light 1",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "BCBAEF68-F894-4E11-880D-2E064E615314",
+    "name" : "Light 2",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "56B99E95-D330-4DBD-AA9C-F29E24E09543",
+    "name" : "Light 1",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "98B26DD8-9305-4EA0-95CC-F75DA3D44E85",
+    "name" : "Light 2",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "5220BAAF-CCB5-4378-921A-49C738CBCCCF",
+    "name" : "Light 3",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "E2B93856-997C-45F5-83A4-A31107257BF4",
+    "name" : "Light 4",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "F1DA6584-53F9-43B0-99C2-8CDD903C6FF9",
+    "name" : "Light 5",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "E99EE787-280A-4197-980B-12E08C464097",
+    "name" : "Light 6",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "9E502B38-A435-4D4B-964F-F21F2A9380A2",
+    "name" : "Light 7",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "F605B7E6-F4ED-4A7D-B0C6-DBF2F39D8135",
+    "name" : "Light 8",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "189CB272-AD6A-49DC-B930-F323A36423DF",
+    "name" : "Light 9",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "666A741F-416A-40EE-9D2E-7770AB0060F4",
+    "name" : "pin-cropped",
+    "offsetY" : 45,
+    "rank" : 0,
+    "resource" : "\/campaigns\/2919CFB5-6CBE-488B-8F19-D32AEB25B05D\/pin-cropped.png",
+    "type" : "image"
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "8C393DBB-0030-4810-BEC3-98BDCE299ED1",
+    "name" : "Frost_Giant_Dragon_Hunter_01",
+    "rank" : 0,
+    "resource" : "\/campaigns\/2919CFB5-6CBE-488B-8F19-D32AEB25B05D\/Frost_Giant_Dragon_Hunter_01.png",
+    "type" : "image"
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "F399D510-6027-488B-B268-E2DCE652A087",
+    "name" : "Frost_Giant_Dragon_Hunter_01",
+    "rank" : 0,
+    "resource" : "\/campaigns\/2919CFB5-6CBE-488B-8F19-D32AEB25B05D\/Frost_Giant_Dragon_Hunter_01.png",
+    "type" : "image"
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "A7C47386-3E73-42DF-8F0C-C8713E81A883",
+    "name" : "Frost_Giant_Dragon_Hunter_01",
+    "rank" : 0,
+    "resource" : "\/campaigns\/2919CFB5-6CBE-488B-8F19-D32AEB25B05D\/Frost_Giant_Dragon_Hunter_01.png",
+    "type" : "image"
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "CECD253F-82A8-4013-9FE2-5C97091261CF",
+    "name" : "Light 1",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "9F2F8B3D-BA2C-403E-A9D6-B5FFD4F91347",
+    "name" : "Light 1",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "808D42D4-839C-4FA7-B9C7-F597B3147EE0",
+    "name" : "Light 2",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "2021C858-4E14-4395-92F3-74ABC3AB9E07",
+    "name" : "Light 3",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "A74C043E-E82E-4282-A00A-8771E19D8BD2",
+    "name" : "Light 4",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "DC05CA88-8030-4406-AE58-3A5DC84C3AE2",
+    "name" : "Light 5",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "B370B134-455C-4EA6-A539-E6215B1078D2",
+    "name" : "Light 6",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "50F7CD14-8CDB-4A24-B903-EC17E932DB5E",
+    "name" : "Light 7",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "BF6580BA-BE47-4019-BB6C-842A4653AC92",
+    "name" : "Light 8",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "178837FC-4D3A-45F5-8E47-9AF2991BC974",
+    "name" : "Light 9",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "3DA1AE48-6AA4-4A4C-B327-A482CB89BD68",
+    "name" : "Light 10",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "604C0E95-F2A8-487F-A912-61D4FBF9B576",
+    "name" : "Light 11",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "CFB5E8FD-4B93-45F8-802D-F997051722CF",
+    "name" : "Light 12",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "C66C68DC-29E5-4519-916A-961BD4E88918",
+    "name" : "Light 13",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "194C6FE9-3692-499F-A985-0EB38A68203B",
+    "name" : "Sack (1x1)",
+    "rank" : 0,
+    "resource" : "\/campaigns\/2919CFB5-6CBE-488B-8F19-D32AEB25B05D\/Sack%20(1x1).png",
+    "size" : "1x1",
+    "type" : "image"
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "BF6B30C6-0C0E-4759-855F-7EF430B34071",
+    "name" : "Light 1",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "443FDAD4-7DC8-4D2D-9F98-C4E70A0D8657",
+    "name" : "Light 2",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "807EBC04-4C2B-4915-9C8A-E2FC84CF85F5",
+    "name" : "Light 3",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "3A347C72-B85E-4D0C-BC97-31DA138659BD",
+    "name" : "Light 4",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "099B2B5F-EC43-44C0-806D-219E008415CA",
+    "name" : "Light 5",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "165B105A-9DBE-4266-8296-884CCE3527B0",
+    "name" : "Light 6",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "14E76072-80AF-4DF5-9DD3-4C71E496E18E",
+    "name" : "Light 7",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "78EC729F-0EE5-4EF9-A773-9EDD2E0BF38B",
+    "name" : "Light 8",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "296536C8-46A2-408F-A31B-9F5B201045CB",
+    "name" : "Light 9",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "76632657-DD9E-49AE-A426-69124892B396",
+    "name" : "Light 10",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "46FE6BFD-52BE-457F-9FC9-28E83036A1E8",
+    "name" : "Light 11",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "D8DED67F-D858-4361-B106-168CB25A2F5A",
+    "name" : "Light 20",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "F88DBD04-992B-4A91-9889-682617E09997",
+    "name" : "Hunter_Shark_Underwater_Large_Beast_01",
+    "rank" : 0,
+    "resource" : "\/campaigns\/2919CFB5-6CBE-488B-8F19-D32AEB25B05D\/Hunter_Shark_Underwater_Large_Beast_01.png",
+    "type" : "image"
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "4F0710C3-D548-4631-925D-9FECB5BE9342",
+    "name" : "Hunter_Shark_Underwater_Large_Beast_01",
+    "rank" : 0,
+    "resource" : "\/campaigns\/2919CFB5-6CBE-488B-8F19-D32AEB25B05D\/Hunter_Shark_Underwater_Large_Beast_01.png",
+    "type" : "image"
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "B9658C35-9195-4B4E-A941-05E6015F8172",
+    "name" : "Cthulhu_Cultist_Medium_Aberration_01",
+    "rank" : 0,
+    "resource" : "\/campaigns\/2919CFB5-6CBE-488B-8F19-D32AEB25B05D\/Cthulhu_Cultist_Medium_Aberration_01.png",
+    "type" : "image"
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "6FE66B70-AFD0-4334-85EC-89D8C68FDED6",
+    "name" : "Cart, small",
+    "rank" : 0,
+    "resource" : "\/campaigns\/2919CFB5-6CBE-488B-8F19-D32AEB25B05D\/Cart,%20small.png",
+    "type" : "image"
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "F128D45C-009A-41E0-8E33-F444682CE8F7",
+    "name" : "Light 1",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "5988FCDB-6F67-4D99-8CDC-6A401FD7463A",
+    "name" : "Light 2",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "67B3529C-C9CF-4292-B4CD-2864CAE3D940",
+    "name" : "Light 3",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "90434453-9A33-45CA-9BE1-E987B58C55C3",
+    "name" : "Light 4",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "12B7D579-99DD-4468-B905-32220F9C50F3",
+    "name" : "Light 5",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "2EE3A07E-5D89-473C-A71F-979850976D4A",
+    "name" : "Light 6",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "EFAC261C-AAD9-4ED6-A0A6-E195811123E0",
+    "name" : "Light 7",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "47C78795-C47A-4A86-B975-ADC51B3EAE62",
+    "name" : "Light 8",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "1525F425-D2A3-40EC-93C4-7AA95197B62B",
+    "name" : "Light 9",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "BE974901-9B84-4FB0-94A2-FCF8C52E5AA7",
+    "name" : "Light 10",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "50117004-710D-4EF7-AED5-45075605C502",
+    "name" : "Light 11",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "93C1C425-247D-4DD4-93FF-02F20519AD74",
+    "name" : "Light 12",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "67827F42-8FB0-4B13-AD0F-FD3B4A2463C8",
+    "name" : "Light 13",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "592FE64F-B3B0-4745-8A57-B91B5F0757FA",
+    "name" : "Light 14",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "940E62A0-D1C1-4B10-846D-8189929E0D5A",
+    "name" : "Light 15",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "7FC1DBF6-D80C-41AD-8F11-B69C6029CBB7",
+    "name" : "Light 16",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "A60C1720-D9EF-49CB-A26D-C53A4940733D",
+    "name" : "Light 17",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "F04C4EB2-E476-4E12-80F2-522BAE96D57C",
+    "name" : "Light 18",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "C68AA4D7-EC09-4A6B-B402-ABDA02F06489",
+    "name" : "Light 19",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "3698A9B7-0251-4F44-8C3D-14964B9DA463",
+    "name" : "Light 20",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "B4BAA13E-ECF0-4357-8D0E-30CCAA81C174",
+    "name" : "Light 21",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "8AAE40BB-E5AE-41A6-B63B-CDAA816471BC",
+    "name" : "Light 22",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "0D9251BF-1F12-4808-A553-A55F8A2E9D58",
+    "name" : "Light 23",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "0E13090F-CF27-4252-AF0D-26B133F02C66",
+    "name" : "Light 1",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "00C8F3A7-FBC1-4A5F-82B3-810EC97C6804",
+    "name" : "Light 2",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "D63798A4-29F1-4A80-B9C5-2F9F9A4727AF",
+    "name" : "Light 3",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "3809524B-18DB-4775-BFB1-0DC871A21D6B",
+    "name" : "Light 4",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "1A440B21-7609-4D53-BF47-06BEB5679F37",
+    "name" : "Light 5",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "B70D05A1-63F8-4787-8B98-7975CE8B43D3",
+    "name" : "Light 6",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "E6561B7D-575C-4660-9667-70E46436DC8B",
+    "name" : "Light 7",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "124EBA9C-CF89-4872-B600-76209C540AE8",
+    "name" : "Light 8",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "55BEC8A2-1E74-4DEA-B306-085CF52CFFF7",
+    "name" : "Light 9",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "DF9D9BBF-4A86-4C45-B836-9E34C658D90A",
+    "name" : "Light 10",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "72D74B8B-E291-41B1-9292-7FAC520884C1",
+    "name" : "Light 11",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "6F17753B-A6CD-41A8-B4C4-85DF5CFD0189",
+    "name" : "Light 12",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "FB9B35E8-E81A-4141-BD04-3F9EDAA645C2",
+    "name" : "Light 13",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "864FBF99-31E9-4135-949C-06AC1CBF8C3D",
+    "name" : "Light 14",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "D7397CF1-77F6-4D2F-874A-E67227CC8D9C",
+    "name" : "Light 15",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "B9DEF81A-EB27-4B91-808E-626666E04A5D",
+    "name" : "Light 16",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "6FEACE01-CDA0-455C-ABCB-4987A6E5E57B",
+    "name" : "Light 17",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "1686A75B-8B74-440C-9224-7C7B6DD9E977",
+    "name" : "Light 18",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "1C5D5BFB-5C1E-47EF-ADA4-8F8D56982C8B",
+    "name" : "Light 19",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "B35396DC-6D61-4310-9EA8-04693F068CD9",
+    "name" : "Light 20",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "3FFCAF45-B83D-4DB1-89F0-0743623A2A45",
+    "name" : "Light 21",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "431759A6-2809-41B9-A0BD-EE5883453B16",
+    "name" : "Light 22",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "82CB7FEC-7014-4DE9-96B8-0FF012114E8A",
+    "name" : "Light 23",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "A2C9214A-C020-4EDD-A0C1-F36EE137BC61",
+    "name" : "Light 24",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "03CE9882-6F34-4FDF-8BC4-670551205C14",
+    "name" : "Light 25",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "BA5FDB6F-C489-4201-852F-DBDE574D669D",
+    "name" : "Light 26",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "D0200DA8-A845-4E4A-8967-7A8601319DD0",
+    "name" : "Light 27",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "331DD3CB-9CEF-4A39-8F11-501AD9CBBAEC",
+    "name" : "Light 1",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "610DC027-27E9-4713-BACD-2205241D6B8A",
+    "name" : "Light 2",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "38B1B71C-DDE6-4EC3-85A4-66007C3BFBA2",
+    "name" : "Light 3",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "5EEC3B34-5DDC-4090-895E-059711BF670D",
+    "name" : "Light 4",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "15CCFF09-3E89-48BE-BB75-4BE21691AC74",
+    "name" : "Light 5",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "73253960-7C7A-4E8B-BE94-EC9779138235",
+    "name" : "Light 6",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "D55E9711-DE9A-4459-A4B9-C234AC26A6F4",
+    "name" : "Light 7",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "2DC68731-5739-4548-92B0-6707FBB05C7E",
+    "name" : "Light 8",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "3B6446BD-FD9B-4331-8314-CA0002148402",
+    "name" : "Light 9",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "37B9BA30-B3D8-4E3F-A0D2-C9A0354C13C9",
+    "name" : "Light 10",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "378CE5C2-4D83-43E2-A2D3-27B8CF3CB61C",
+    "name" : "Light 11",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "2CB81314-6198-43EA-B888-03DC2751CE10",
+    "name" : "Light 12",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "C948C78D-2D8D-4EC9-9E47-39F8541732E7",
+    "name" : "Light 14",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "9B140BEE-CB15-42BA-8545-0896E57DD91C",
+    "name" : "Light 15",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "96D08BAF-93D7-43D5-986C-2B6891A2A7BD",
+    "name" : "Light 16",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "8C3CD473-D22E-440A-856D-201ECD1EAE6D",
+    "name" : "Light 17",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "E7752FD5-6B5E-4A79-B92F-82BC76C9B8E4",
+    "name" : "Mr.Skeleton",
+    "rank" : 0,
+    "resource" : "\/campaigns\/2919CFB5-6CBE-488B-8F19-D32AEB25B05D\/Mr.Skeleton.png",
+    "type" : "image"
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "0F096470-4552-4614-9FC4-0080F10B1768",
+    "name" : "Azer_Medium_Elemental_01",
+    "rank" : 0,
+    "resource" : "\/campaigns\/2919CFB5-6CBE-488B-8F19-D32AEB25B05D\/Azer_Medium_Elemental_01",
+    "type" : "image"
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "2A47FDA7-F81B-4238-A969-6ABC3E57F54B",
+    "name" : "Light 1",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "8F4ECFA7-4C9E-497D-AFAA-FA685E424F65",
+    "name" : "Light 2",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "317FB831-88AE-4E56-BFAE-F136C94DF6D0",
+    "name" : "Light 3",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "616F6476-E7AF-43B1-9148-1FE9D49D288D",
+    "name" : "Light 4",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "B7B46DCF-FB7F-4492-8701-5AC6181CFDFD",
+    "name" : "Light 5",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "3C96CB3E-8C2A-4EAA-BAD2-7F2B1AFBF659",
+    "name" : "Light 6",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "080C08AA-F51D-4373-BCCB-02027714290E",
+    "name" : "Light 7",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "0ECF48AD-028A-4317-9B45-808A471F272A",
+    "name" : "Light 8",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "A4D3794A-3252-4B10-BA32-E946636163CD",
+    "name" : "Light 9",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "2BEC257B-FB6C-405E-A535-D7E1A598E5EB",
+    "name" : "Light 10",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "731572D3-6C69-4DCE-A60F-DC5A5CE310B5",
+    "name" : "Light 11",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "81B25502-C8A9-4EFD-875F-F6B5A378677B",
+    "name" : "Light 12",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "CC72D374-38A1-4534-B08C-9EE24AD2F314",
+    "name" : "Light 13",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "B9D77280-57DF-4297-8F43-EB5CB4853597",
+    "name" : "Light 14",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "74FBCB67-7939-4848-A5C3-D06BE0D6AA44",
+    "name" : "Light 15",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "7A6AD862-F307-4FD2-9547-97B23A36543D",
+    "name" : "Light 16",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "56A4C995-1E83-4F60-B633-C925A2148552",
+    "name" : "Light 17",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "390C94E9-11EA-40C9-9DE4-E4B8239A4385",
+    "name" : "Light 18",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "A649C2C7-8619-44B6-A382-DFAC83533CA6",
+    "name" : "Light 19",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "87100533-F6DB-4C05-BEE1-AE17081BCA86",
+    "name" : "Chest (1x1) 3",
+    "rank" : 0,
+    "resource" : "\/campaigns\/2919CFB5-6CBE-488B-8F19-D32AEB25B05D\/Chest%20(1x1)%203.png",
+    "size" : "1x1",
+    "type" : "image"
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "467688B5-50A1-45A4-8389-E95DE7A6245E",
+    "name" : "Light 1",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "86E2BF99-7FB8-42FC-907A-2E8B7BA1CE25",
+    "name" : "Light 2",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "946CEC7A-7E62-4ACE-AAD0-FE10E0AF813A",
+    "name" : "Light 3",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "CD8E33A7-F030-4B66-A1DB-CE5B57459DD6",
+    "name" : "Light 4",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "97198ED3-D884-4437-9F07-F4218EA3A6D8",
+    "name" : "Light 5",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "BB6E4A8F-D09C-48EB-B451-4D1B22DBA4BF",
+    "name" : "Light 6",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "CCEC8CBC-3BB6-49FF-A488-72812C3CF2E5",
+    "name" : "Light 7",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "11A17981-751F-4643-AE28-1EA003F9C500",
+    "name" : "Light 8",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "EFAE6E4F-8F50-430F-9941-55557F94C1D9",
+    "name" : "Light 9",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "CBF38AD7-2C6A-415E-8FEE-E2B9883CDF11",
+    "name" : "Light 10",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "74397234-4FD8-4F46-A935-E4922E6ED926",
+    "name" : "Light 11",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "0DAF0F1E-7579-42D3-8EA5-F2287504819A",
+    "name" : "Light 12",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "016B2C35-06DB-45C7-A42B-1A9F87B39355",
+    "name" : "Light 13",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "EACF8C26-A151-4EE9-97DF-C510B4E8F647",
+    "name" : "Light 14",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "01155608-EBB0-43A9-9850-4E7202044D70",
+    "name" : "Light 15",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "05A39472-71B3-4FAB-AF3B-55952AF49928",
+    "name" : "Light 16",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "C8D62B9E-AD5F-4CBB-BA8E-DC9ED381CB2E",
+    "name" : "Light 17",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "AA065CB9-CFA7-429A-8A77-D565E9C6631A",
+    "name" : "Light 18",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "F53C6527-95DD-404E-B215-C3175F4FAC1F",
+    "name" : "Light 1",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "B09A987A-49E1-426B-A60D-E6443393E140",
+    "name" : "Light 2",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "B5D48985-3B4F-45B3-8504-D251D3D13C01",
+    "name" : "Light 3",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "3A3AC4C4-82A2-423F-AAEE-39CBDB0D9375",
+    "name" : "Light 4",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "1205DBE1-BA17-47E0-988D-4B6E557EDAA3",
+    "name" : "Light 5",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "AEBC5EB2-137C-470E-BA22-FFF8F9EE60D9",
+    "name" : "Light 6",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "BB601324-2AA1-423D-9F56-FB9E2B7FF1CC",
+    "name" : "Light 7",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "E08CA027-D19B-4C25-9917-1C6A99DB5A41",
+    "name" : "Light 8",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "13CBE54E-1415-4484-8E0F-BBFB07175EF3",
+    "name" : "Light 9",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "C3857F36-ACC5-4019-BFB2-A789ED3A276B",
+    "name" : "Light 10",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "461C2301-A9F9-40FC-BFEA-56E84AE72F86",
+    "name" : "Light 11",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "829BED34-0864-400D-BB5C-78839FA7703C",
+    "name" : "Light 12",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "29DA0CB4-DF8D-4D9D-BBD5-04AD6C0D4DD4",
+    "name" : "Light 13",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "3EDFEB16-1E85-4619-BA38-A35B27FAD5F8",
+    "name" : "Light 14",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "932C62B2-2F1A-4CC5-A416-814132535DDC",
+    "name" : "Light 15",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "4FEDFFAC-C408-4F31-A1AC-00568C058B05",
+    "name" : "Light 16",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "321BE03D-B8D8-4641-BFA5-3F5F34677FD2",
+    "name" : "Light 17",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+
+    ],
+    "id" : "B9B9E504-ABDE-4A47-BDF3-0B8655FF2163",
+    "name" : "Light 18",
+    "rank" : 0,
+    "type" : ""
+  },
+  {
+    "components" : [
+      {
+        "duration" : 1800,
+        "enabled" : true,
+        "to" : 360,
+        "type" : "animation.rotation"
+      }
+    ],
+    "id" : "0247B487-639F-46D6-8F40-BA30ED8EF365",
+    "name" : "Explosion (2x2)",
+    "rank" : 0,
+    "resource" : "\/temp\/Explosion%20(2x2).png",
+    "type" : "image"
+  },
+  {
+    "components" : [
+      {
+        "duration" : 1800,
+        "enabled" : true,
+        "to" : 360,
+        "type" : "animation.rotation"
+      }
+    ],
+    "id" : "33761CD2-6B41-4FF4-B00E-7BA231ADDE45",
+    "name" : "Explosion (2x2)",
+    "rank" : 0,
+    "resource" : "\/temp\/Explosion%20(2x2).png",
+    "type" : "image"
+  }
+]

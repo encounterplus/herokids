@@ -1,0 +1,54 @@
+{
+  "Action": {
+    "meleeAttack": "Action.MeleeAttack",
+    "rangedAttack": "Action.RangedAttack",
+    "magicAttack": "Action.MagicAttack",
+    "specialAction": "Action.SpecialAction",
+    "bonusAbility": "Action.BonusAbility"
+  },
+  "Attack": {
+    "melee": "Attack.MeleeAttack",
+    "ranged": "Attack.RangedAttack",
+    "magic": "Attack.MagicAttack"
+  },
+  "BasicItem": {
+    "potion": "BasicItem.Potion",
+    "rope": "BasicItem.Rope",
+    "food": "BasicItem.Food",
+    "gold": "BasicItem.Gold",
+    "herbs": "BasicItem.Herbs"
+  },
+  "ItemCategory": {
+    "equipment": "ItemCategory.Equipment",
+    "item": "ItemCategory.Item",
+    "boon": "ItemCategory.Boon",
+  },
+  "ItemCategoryDescription": {
+    "equipment": "ItemCategoryDescription.Equipment",
+    "item": "ItemCategoryDescription.Item",
+    "boon": "ItemCategoryDescription.Boon",
+  },
+  "UniqueAbility": {
+    "darkvision": "UniqueAbility.Darkvision",
+    "flying": "UniqueAbility.Flying",
+    "mount": "UniqueAbility.Mount",
+  },
+  "HealthBox": {
+    "ko": "HealthBox.KO",
+    "hurt": "HealthBox.Hurt",
+    "bruised": "HealthBox.Bruised",
+    "grazed": "HealthBox.Grazed"
+  },
+  "Skill": {
+    "insight": "Skill.Insight",
+    "knowledge": "Skill.Knowledge",
+    "monsters": "Skill.Monsters",
+    "perception": "Skill.Perception",
+    "persuasion": "Skill.Persuasion",
+    "tracking": "Skill.Tracking",
+    "athletics": "Skill.Athletics",
+    "acrobatics": "Skill.Acrobatics",
+    "crafting": "Skill.Crafting",
+    "stealth": "Skill.Stealth"
+  },
+}

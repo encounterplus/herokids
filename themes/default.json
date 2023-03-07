@@ -1,0 +1,50 @@
+{
+  "tintColor": "#000000",
+  "textColor": "#000000",
+  "dividerColor": "#cccccc",
+  "bgColor": "#ffffff",
+  "styles": {
+    "body": {
+      "font": "Baramond",
+      "size": 18,
+    },
+    "body2": {
+      "font": "Baramond",
+      "size": 20,
+    },
+    "body3": {
+      "font": "Baramond",
+      "size": 20,
+      "alignment": "center"
+    },
+    "title": {
+      "font": "Salernomi J",
+      "alignment": "center",
+      "size": 32
+    },
+    "title2": {
+      "font": "Salernomi J",
+      "alignment": "center",
+      "size": 26
+    },
+    "title3": {
+      "font": "Baramond-Bold",
+      "alignment": "center",
+      "divider": true,
+      "size": 20
+    },
+    "heading": {
+      "font": "Salernomi J",
+      "alignment": "center",
+    },
+    "footer": {
+      "font": "Baramond-Italic",
+      "size": 18,
+      "alignment": "center",
+    },
+    "icons": {
+      "font": "Baramond",
+      "size": 50,
+    },
+  }
+}

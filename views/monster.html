@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en" {{HTML_CLASS}}>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+        <link href="./assets/css/global.css" rel="stylesheet" type="text/css">
+        <link href="./assets/css/custom.css" rel="stylesheet" type="text/css">
+    </head>
+    <script>
+        window.data = {};
+    </script>
+    <body>
+        <div id="page">
+            <h1>{{name}}</h1>
+            <p><strong>Melee: </strong><a href="/roll/{{data.str}}d6">{{data.str}}</a></p>
+            <p><strong>Ranged: </strong>{{data.dex}}</p>
+            <p><strong>Magic: </strong>{{data.int}}</p>
+            <a href="/monster/giant-rat">giant rat</a>
+        </div>
+        <div>
+            <a href="./monsters/{{image}}"><img src="./monsters/{{image}}" width="100%"></a>
+        </div>
+    </body>
+    <script src="./assets/js/custom.js"></script>
+    <script>
+        // function callback(e) {
+        //     var e = window.e || e;
+
+        //     // img handler
+        //     if (e.target.tagName === 'IMG') {
+        //         var src = e.target.getAttribute('src');
+        //         if (src.startsWith("http")) {
+        //             window.location.href = src;
+        //             return;
+        //         } else {
+        //             window.location.href = "https://encounter.plus/" + src;
+        //             return;
+        //         }
+        //     }
+            
+        //     // anchor handler to support absolute links
+        //     var target = e.target.closest('a') || e.target;
+        //     if (target.tagName === 'A') {
+        //         var link = target.getAttribute('href');
+
+        //         if (link.startsWith("/")) {
+        //             e.preventDefault();
+        //             window.location.href = "https://encounter.plus" + link;
+        //             return;
+        //         }
+        //         return
+        //     }
+        //     return;
+        // };
+    
+        // // add global event listener
+        // if (document.addEventListener) {
+        //     document.addEventListener('click', callback, false);
+        // } else {
+        //     document.attachEvent('onclick', callback);
+        // }
+    </script>
+</html>

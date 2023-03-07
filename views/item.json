@@ -1,0 +1,70 @@
+{
+  "spacing": 8,
+  "padding": [20, 20, 60, 20],
+  "views": [
+    {
+      "type": "image",
+      "value": "/images/logo.png",
+    },
+    {
+      "value": "{{name}}",
+      "style": "title",
+    },
+    {
+      "value": "{{data.category | map: 'ItemCategory'}}",
+      "style": "title2",
+    },
+    {
+      "type": "image",
+      "value": "/items/{{image}}",
+      "link": "/items/{{image}}"
+    },
+    {
+      "type": "text",
+      "value": "**{{data.action.name}}**\n{{data.action.text}}",
+      "style": "body3"
+    },
+    {
+      "type": "text",
+      "value": "{{content}}",
+    },
+    {
+      "value": "{{data.category | map: 'ItemCategoryDescription'}}",
+      "style": "footer"
+    }
+  ],
+  "background": {
+    "type": "zStack",
+    "views": [
+      {
+        "type": "image",
+        "value": "/images/scroll-texture.jpg",
+        "imageResizeMode": "tile",
+        "borderWidth": 3,
+        "borderColor": "#000000",
+        "padding": [0, 8, 0, 8]
+      },
+      {
+        "type": "vStack",
+        "views": [
+          {
+            "type": "image",
+            "value": "/images/scroll-top.png",
+            "imageResizeMode": "stretch",
+            "padding": [0, 8, 0, 8],
+            "height": 20,
+          },
+          {
+            "type": "spacer",
+          },
+          {
+            "type": "image",
+            "value": "/images/scroll-bottom.png",
+            "imageResizeMode": "stretch",
+            "height": 40,
+          }
+        ]
+      }
+    ]
+  },
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Pet",
+  "sections": [
+    {
+      "title": "Class",
+      "type": "group",
+      "fields": [
+        {
+          "title": "Class",
+          "attribute": "data.class"
+        },
+      ]
+    },
+    {
+      "title": "Abilities",
+      "type": "group",
+      "fields": [
+        {
+          "title": "Melee Dice Pool",
+          "detail": "Strength",
+          "type": "number",
+          "attribute": "data.str"
+        },
+        {
+          "title": "Ranged Dice Pool",
+          "detail": "Dexterity",
+          "type": "number",
+          "attribute": "data.dex"
+        },
+        {
+          "title": "Magic Dice Pool",
+          "detail": "Intelligence",
+          "type": "number",
+          "attribute": "data.int"
+        },
+        {
+          "title": "Armor Dice Pool",
+          "type": "number",
+          "attribute": "data.ac"
+        }
+      ]
+    },
+    {
+      "title": "Health",
+      "type": "group",
+      "fields": [
+        {
+          "title": "Health Boxes",
+          "type": "number",
+          "attribute": "data.hp"
+        }
+      ]
+    },
+    {
+      "title": "Actions",
+      "type": "list",
+      "attribute": "data.actions",
+      "form": {
+        "title": "Action",
+        "sections": [
+          {
+            "type": "group",
+            "fields": [
+              {
+                "title": "Type",
+                "type": "picker",
+                "attribute": "type",
+                "attributeType": "Action"
+              }
+            ]
+          },
+          {
+            "type": "group",
+            "fields": [
+              {
+                "title": "Name",
+                "attribute": "name"
+              },
+              {
+                "title": "Text",
+                "type": "textArea",
+                "attribute": "text"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "Skills and Unique Abilities",
+      "type": "group",
+      "fields": [
+        {
+          "title": "Skills",
+          "type": "multiPicker",
+          "attribute": "data.skills",
+          "attributeType": "Skill"
+        },
+        {
+          "title": "Unique Abilities",
+          "type": "multiPicker",
+          "attribute": "data.uniqueAbilities",
+          "attributeType": "UniqueAbility"
+        },
+      ]
+    },
+  ]
+}

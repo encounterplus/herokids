@@ -1,0 +1,13 @@
+{
+  "author" : "Encounter+ Dev Team, Justin Halliday",
+  "banner" : "images\/banner.jpg",
+  "descr" : "Unleash your kids' imagination with Hero Kids, the ENnie award-winning fantasy role-playing game for kids aged from 4-10.",
+  "id" : "herokids",
+  "image" : "images\/cover.jpg",
+  "name" : "Hero Kids",
+  "package" : "https:\/\/github.com\/encounterplus\/herokids\/releases\/latest\/download\/herokids.json",
+  "repository" : "https:\/\/github.com\/encounterplus\/herokids",
+  "shortDescr" : "ENnie award-winning fantasy RPG for kids aged from 4 to 10.",
+  "version" : "0.9.0",
+  "website" : "https:\/\/www.heroforgegames.com\/hero-kids\/"
+}

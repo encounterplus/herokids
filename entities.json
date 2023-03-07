@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Monster",
+    "label": "monster",
+    "collection": {
+      "label": "monsters"
+    },
+    "renderer": "native"
+  },
+  {
+    "name": "Hero",
+    "label": "hero",
+    "collection": {
+      "label": "heroes"
+    }
+  },
+  {
+    "name": "Item",
+    "label": "item",
+    "collection": {
+      "label": "items"
+    }
+  },
+  {
+    "name": "Pet",
+    "label": "pet",
+    "collection": {
+      "label": "pets"
+    }
+  }
+]

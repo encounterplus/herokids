@@ -1,0 +1,31 @@
+{
+  "title": "Item",
+  "sections": [
+    {
+      "type": "group",
+      "fields": [
+        {
+          "title": "Category",
+          "type": "picker",
+          "attribute": "data.category",
+          "attributeType": "ItemCategory"
+        }
+      ]
+    },
+    {
+      "title": "Action",
+      "type": "group",
+      "fields": [
+        {
+          "title": "Name",
+          "attribute": "data.action.name"
+        },
+        {
+          "title": "Text",
+          "type": "textArea",
+          "attribute": "data.action.text"
+        }
+      ]
+    },
+  ]
+}
