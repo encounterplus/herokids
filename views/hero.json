@@ -5,11 +5,11 @@
   "views": [
     {
       "type": "image",
-      "value": "/images/logo.png",
+      "value": "/images/logo.png"
     },
     {
       "value": "{% if data.class %}{{data.class}}: {% endif %}{{name}}",
-      "style": "title",
+      "style": "title"
     },
     {
       "type": "zStack",
@@ -21,7 +21,7 @@
           "value": "{{imagePath}}",
           "link": "{{imagePath}}",
           "width": 0.6,
-          "height": 300,
+          "height": 300
         },
         {
           "type": "zStack",
@@ -34,33 +34,33 @@
                 {
                   "type": "text",
                   "width": -1,
-                  "value": "![Melee Attack](/icons/melee.png#size=50x50) {% if data.str %}{% for i in 1...data.str %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
+                  "value": "![Melee Attack](/icons/melee.png#size=50x50) {% if data.str %}{% for i in 1...data.str %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6kh) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
                 },
                 {
                   "type": "text",
                   "width": -1,
-                  "value": "![Ranged Attack](/icons/ranged.png#size=50x50) {% if data.dex %}{% for i in 1...data.dex %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
+                  "value": "![Ranged Attack](/icons/ranged.png#size=50x50) {% if data.dex %}{% for i in 1...data.dex %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6kh) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
                 },
                 {
                   "type": "text",
                   "width": -1,
-                  "value": "![Magic Attack](/icons/magic.png#size=50x50) {% if data.int %}{% for i in 1...data.int %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
+                  "value": "![Magic Attack](/icons/magic.png#size=50x50) {% if data.int %}{% for i in 1...data.int %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6kh) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
                 },
                 {
                   "type": "text",
                   "width": -1,
-                  "value": "![Armor](/icons/armor.png#size=50x50) {% if data.ac %}{% for i in 1...data.ac %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
+                  "value": "![Armor](/icons/armor.png#size=50x50) {% if data.ac %}{% for i in 1...data.ac %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6kh) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
                 },
                 {
                   "type": "text",
                   "width": -1,
                   "value": "![Health](/icons/health.png#size=50x50) {% if data.hp %}![Health](/icons//hb{{data.hp}}.png#height=50){% else %}![Die](/icons/none.png#height=50){% endif %}"
-                },
-              ],
-            },
+                }
+              ]
+            }
           ]
         }
-      ],
+      ]
     },
     {
       "type": "spacer",
@@ -74,7 +74,7 @@
           "type": "text",
           "value": "{% if type %}**{{type|map: 'Action'}}: {% endif %}{{name}}**\n{{text}}",
           "style": "body2"
-        },
+        }
       ]
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "type": "text",
-      "value": "{% for item in data.inventory %}{% for i in 1...item.count %}![{{item.type}}](/icons/item/{{item.type}}.png#height=50) {% endfor %}{% endfor %}  {% for skill in data.skills %}![{{skill}}](/icons/skill/{{skill}}.png#height=50) {% endfor %}  {% for ability in data.uniqueAbilities %}![{{ability}}](/icons/ability/{{ability}}.png#height=50){% endfor %}",
+      "value": "{% for item in data.inventory %}{% for i in 1...item.quantity %}![{{item.type}}](/icons/item/{{item.type}}.png#height=50) {% endfor %}{% endfor %}  {% for skill in data.skills %}[![Die](/icons/skill/{{skill}}.png#height=50)](/roll/2d6kh) {% endfor %}  {% for ability in data.uniqueAbilities %}![{{ability}}](/icons/ability/{{ability}}.png#height=50){% endfor %}",
       "style": "icons"
     },
     {
@@ -95,11 +95,11 @@
     {
       "type": "text",
       "value": "{% for item in data.items %}{% if item.quantity %}{{item.quantity}}x {% endif %}{% if item.active %} ✓ {% endif %}[{{item.name|default:item.definition.name}}]({{item.reference}}), {% endfor %}",
-      "style": "body2",
+      "style": "body2"
     },
     {
       "type": "text",
-      "value": "{{content}}",
+      "value": "{{content}}"
     }
   ],
   "background": {
@@ -121,16 +121,16 @@
             "value": "/images/scroll-top.png",
             "imageResizeMode": "stretch",
             "padding": [0, 8, 0, 8],
-            "height": 20,
+            "height": 20
           },
           {
-            "type": "spacer",
+            "type": "spacer"
           },
           {
             "type": "image",
             "value": "/images/scroll-bottom.png",
             "imageResizeMode": "stretch",
-            "height": 40,
+            "height": 40
           }
         ]
       }
