@@ -5,14 +5,16 @@
     "collection": {
       "label": "monsters"
     },
-    "renderer": "native"
+    "loadable": true
   },
   {
     "name": "Hero",
     "label": "hero",
     "collection": {
       "label": "heroes"
-    }
+    },
+    "loadable": true,
+    "role": "friendly"
   },
   {
     "name": "Item",
@@ -26,6 +28,8 @@
     "label": "pet",
     "collection": {
       "label": "pets"
-    }
+    },
+    "loadable": true,
+    "role": "friendly"
   }
 ]
