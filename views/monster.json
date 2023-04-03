@@ -1,5 +1,6 @@
 {
   "debug": false,
+  "footer": true,
   "spacing": 8,
   "padding": [
     20,
@@ -39,22 +40,22 @@
                 {
                   "type": "text",
                   "width": -1,
-                  "value": "![Melee Attack](/icons/melee.png#size=50x50) {% if data.str %}{% for i in 1...data.str %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
+                  "value": "![Melee Attack](/icons/melee.png#size=50x50) {% if data.str %}{% for i in 1...data.str %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6kh) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
                 },
                 {
                   "type": "text",
                   "width": -1,
-                  "value": "![Ranged Attack](/icons/ranged.png#size=50x50) {% if data.dex %}{% for i in 1...data.dex %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
+                  "value": "![Ranged Attack](/icons/ranged.png#size=50x50) {% if data.dex %}{% for i in 1...data.dex %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6kh) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
                 },
                 {
                   "type": "text",
                   "width": -1,
-                  "value": "![Magic Attack](/icons/magic.png#size=50x50) {% if data.int %}{% for i in 1...data.int %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
+                  "value": "![Magic Attack](/icons/magic.png#size=50x50) {% if data.int %}{% for i in 1...data.int %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6kh) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
                 },
                 {
                   "type": "text",
                   "width": -1,
-                  "value": "![Armor](/icons/armor.png#size=50x50) {% if data.ac %}{% for i in 1...data.ac %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
+                  "value": "![Armor](/icons/armor.png#size=50x50) {% if data.ac %}{% for i in 1...data.ac %}[![Die](/icons/d6.png#height=50)](/roll/{{i}}d6kh) {% endfor %}{% else %}![Die](/icons/none.png#height=50){% endif %}"
                 },
                 {
                   "type": "text",
@@ -74,6 +75,7 @@
     {
       "type": "list",
       "attribute": "data.actions",
+      "divider": true,
       "views": [
         {
           "type": "text",

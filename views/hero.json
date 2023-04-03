@@ -1,5 +1,6 @@
 {
   "debug": false,
+  "footer": true,
   "spacing": 8,
   "padding": [20, 20, 60, 20],
   "views": [
