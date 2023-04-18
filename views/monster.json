@@ -11,7 +11,7 @@
   "views": [
     {
       "type": "image",
-      "value": "/images/logo.png",
+      "value": "/images/HeroKidsHC.webp",
     },
     {
       "value": "{{name}}",
