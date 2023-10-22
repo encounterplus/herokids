@@ -3,7 +3,7 @@
   "textColor": "#000000",
   "dividerColor": "#cccccc",
   "bgColor": "#ffffff",
-  "styles": {
+  "textStyles": {
     "body": {
       "font": "Baramond",
       "size": 18,
@@ -34,8 +34,20 @@
       "size": 20
     },
     "heading": {
+      "font": "Baramond-Bold",
+      "alignment": "center",
+    },
+    "heading2": {
+      "font": "Baramond-Bold",
+      "alignment": "center",
+      "size": 23,
+      "divider": true,
+    },
+    "heading3": {
       "font": "Salernomi J",
       "alignment": "center",
+      "divider": true,
+      "size": 20,
     },
     "footer": {
       "font": "Baramond-Italic",

@@ -24,8 +24,8 @@
       "views": [
         {
           "type": "image",
-          "value": "{{imagePath}}",
-          "link": "{{imagePath}}",
+          "value": "{{image}}",
+          "link": "{{image}}",
           "width": 0.6,
           "height": 300,
         },
@@ -75,18 +75,36 @@
     {
       "type": "list",
       "attribute": "data.actions",
-      "divider": true,
       "views": [
         {
           "type": "text",
           "value": "{% if type %}**{{type|map: 'Action'}}: {% endif %}{{name}}**\n{{text}}",
           "style": "body2"
         },
+        {
+          "type": "image",
+          "value": "/images/swoosh.png",
+          "imageResizeMode": "stretch",
+          "height": 14,
+        }
       ]
     },
     {
       "type": "text",
       "value": "{{content}}",
+    },
+    {
+      "type": "text",
+      "title": "Notes",
+      "value": "{{notes}}",
+    },
+    {
+      "type": "text",
+      "value": "{{footer}}"
+    }, 
+    {
+      "type": "tags",
+      "attribute": "tags"
     }
   ],
   "background": {

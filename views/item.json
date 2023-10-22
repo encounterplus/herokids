@@ -16,8 +16,8 @@
     },
     {
       "type": "image",
-      "value": "/items/{{image}}",
-      "link": "/items/{{image}}"
+      "value": "{{image}}",
+      "link": "{{image}}"
     },
     {
       "type": "text",
@@ -31,6 +31,19 @@
     {
       "value": "{{data.category | map: 'ItemCategoryDescription'}}",
       "style": "footer"
+    },
+    {
+      "type": "text",
+      "title": "Notes",
+      "value": "{{notes}}",
+    },
+    {
+      "type": "text",
+      "value": "{{footer}}"
+    }, 
+    {
+      "type": "tags",
+      "attribute": "tags"
     }
   ],
   "background": {

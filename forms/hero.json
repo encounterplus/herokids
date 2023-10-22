@@ -109,6 +109,7 @@
       "type": "list",
       "attribute": "data.inventory",
       "listItemTitle": "{{type|map: 'BasicItem'}}",
+      "listItemValue": "{{quantity}}",
       "form": {
         "title": "Item",
         "sections": [
@@ -135,6 +136,8 @@
       "title": "Equipment, Items and Boons",
       "type": "list",
       "attribute": "data.items",
+      "attributeType": "Item",
+      "listItemValue": "{{quantity}}",
       "form": {
         "title": "Item",
         "sections": [
